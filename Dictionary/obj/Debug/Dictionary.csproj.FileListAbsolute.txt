@@ -1,0 +1,14 @@
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Eyeshield\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\angel\Google Drive\GeorgeBrown_2ndYr\2ndsem\algo\assignment\assignment\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
